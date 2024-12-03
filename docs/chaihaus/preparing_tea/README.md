@@ -1,3 +1,7 @@
 # Lista Podstawowych Herbat do przygtowania
 
-Notatka dla edytora: Skorzystaj z templatki pod template.md
+1. [Przykładowa herbata torebkowa](example)
+1. Matcha
+1. Jaśminowa
+
+## Dodaj własną!
