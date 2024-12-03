@@ -1,4 +1,4 @@
-Witamy w repozytorium informacji dla czaimanów konwentowych
+# Witamy w repozytorium informacji dla czaimanów konwentowych
 
 1. [Ogólne informacje](/docs/chaihaus/README.md)
 2. Dobre zasady zachowania czystości

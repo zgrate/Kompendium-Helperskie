@@ -1,4 +1,4 @@
-Witamy w dokumentacji repozytorum chaimańskim
+Witamy w repozytorium Helperskim!
 
 1. [Zasady Edycji](/docs/wiki/editor.md)
 2. Konwenty:
